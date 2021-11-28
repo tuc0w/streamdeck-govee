@@ -1,0 +1,23 @@
+{
+  "Name": "Govee", 
+  "Description": "Steurere deine Govee Lampen.", 
+  "Category": "Govee", 
+  "com.andreasbehrend.govee.power": {
+    "Name": "Ein/Aus", 
+    "Tooltip": "Schalte das Licht ein oder aus.",
+    "States": [
+      {
+        "Name": "Ein"
+      },
+      {
+        "Name": "Aus"
+      }
+    ]
+  },
+  "Localization": {
+    "More info": "Mehr Infos",
+    "Message": "Nachricht",
+    "Click Me": "Klicke mich",
+    "Button": "Taste"
+  }
+}

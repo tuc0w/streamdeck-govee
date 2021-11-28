@@ -1,0 +1,23 @@
+{
+  "Name": "Govee", 
+  "Description": "Control your Govee lights.", 
+  "Category": "Govee", 
+  "com.andreasbehrend.govee.power": {
+    "Name": "On/Off", 
+    "Tooltip": "Turn lights on or off.",
+    "States": [
+      {
+        "Name": "On"
+      },
+      {
+        "Name": "Off"
+      }
+    ]
+  },
+  "Localization": {
+    "More info": "More info",
+    "Message": "Message",
+    "Click Me": "Click Me",
+    "Button": "Button"
+  }
+}
